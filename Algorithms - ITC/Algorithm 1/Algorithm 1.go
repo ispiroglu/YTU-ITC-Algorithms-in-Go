@@ -1,4 +1,4 @@
-//Basic algorithm that add a number to another number.
+//Basic algorithm that adds a number to another number.
 
 package main
 

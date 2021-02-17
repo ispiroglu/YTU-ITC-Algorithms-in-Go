@@ -1,5 +1,5 @@
 //An algorihtm that checks the given number is Armstrong number.
-
+//ERROR THIS ALGORITHM IS NOT WORKING RIGHT NOW. I'LL FIX IT SOON.
 package main
 
 import "fmt"
