@@ -1,6 +1,8 @@
 # YTU-ITC-Algorithms-in-Go
 Yildiz Techical University - Intorduction to Computer Science Algorithm examples in Golang
 
+There are approximately 20 - 25 algorithms.
+
 Originally written in C by Recep Selim
  - github.com/selimrecep/ytu-itc-notes
 
